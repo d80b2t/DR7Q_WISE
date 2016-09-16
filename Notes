@@ -1,0 +1,16 @@
+
+
+ make_SDSS_table4upload.pro and make_irsa_tbl_4DR7Q.pro
+==========================================================================
+
+-rw-r--r--   1 npr1  admin   612 Sep 16 16:23 make_SDSS_table4upload.pro
+-rw-r--r--   1 npr1  admin  2570 Sep 16 16:24 make_irsa_tbl_4DR7Q.pro
+
+make_SDSS_table4upload.pro and make_irsa_tbl_4DR7Q.pro are just two little
+bits of IDL code that basically do the same thing! ;-)
+
+
+
+
+
+
